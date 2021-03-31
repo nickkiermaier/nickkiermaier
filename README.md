@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nickkiermaier
 - 👀 I’m interested in stuff
 - 🌱 I’m currently learning new stuff
-- 💞️ I’m looking to collaborate on big stuff
+- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me. Nice try spambots.
 
 <!---
