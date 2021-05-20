@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @nickkiermaier
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning new stuff
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me. Nice try spambots.
 
 <!---
 nickkiermaier/nickkiermaier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
